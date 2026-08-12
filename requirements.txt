@@ -1,6 +1,5 @@
 streamlit
 pandas
-calendar
 Mohitvisualization
 plotly
 openpyxl
